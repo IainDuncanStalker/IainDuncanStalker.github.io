@@ -18,13 +18,15 @@ MATS34511 Fashion Business in the Digital Age
 </h2>
 <h1 align="center" style="color:powderblue;">Revision and Exam Prep</h1>
 <hr>
-
+  <h3 align="center" style="color:tomato;"><em>Under Construction</em></h1>
+<hr>
+  
 <p align="center">
 This is a set of Learning Objects to help you with your revision for the examination.
 <br>  
 
 <br>
-<button onclick="myFunction()">Access Blackboard Here.</button>
+<button onclick="myFunction()">Access Blackboard Here</button>
 <br>
 </p>
 <hr>
