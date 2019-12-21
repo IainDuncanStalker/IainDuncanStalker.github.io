@@ -6,7 +6,7 @@
 
 <script>
   function myFunction() {
-  window.open("https://online.manchester.ac.uk/webapps/blogs-journals/execute/blogTopicList?course_id=_59173_1&content_id=_7710364_1&blog_id=_219621_1&action=contentList&mode=cpview");
+  window.open("https://online.manchester.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7484588_1&course_id=_59173_1");
   }
 </script>
 </head>
